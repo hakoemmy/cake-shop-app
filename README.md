@@ -1,2 +1,2 @@
 # cake-shop-app
-> Buy your favourite cake and ice cream
+> Buy your favourite cake
